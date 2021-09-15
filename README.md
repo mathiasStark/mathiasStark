@@ -4,8 +4,8 @@
 <h4>📚 - Atualmente estou estudando Javascript, HTML5 E CSS</h4>
  <div>
   <a href="https://github.com/Mathias-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias-Santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-Santos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathiasStark&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasStark&layout=compact&langs_count=7&theme=dark"/>
     <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="110">
   
 </div>
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/mathias-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
   </div>
  
- ![Snake animation](https://github.com/Mathias-Santos/Mathias-Santos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mathiasStark/mathiasStark/blob/output/github-contribution-grid-snake.svg)
   
 
 
