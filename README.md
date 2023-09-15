@@ -1,7 +1,7 @@
 # Olá, eu sou Mathias Santos <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="30">
 
-<h4>🤓 💻🖱️ - Sou estudante de Engenharia de Software</h4>
-<h4>📚 - Atualmente estou estudando Javascript, HTML5 E CSS</h4>
+<h4>🤓 💻🖱️ - AWS Certified</h4>
+<h4>📚 - Java, Spring Boot, AWS, Angular, JS, TS, SQL, Github</h4>
  <div>
   <a href="https://github.com/Mathias-Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathiasStark&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
